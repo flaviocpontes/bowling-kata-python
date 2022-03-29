@@ -25,3 +25,7 @@ A Frame's maximum score is 30 and a game's maximum score is 300.
 - [1|1] [1|1] [1|1] [1|1] [1|1] [1|1] [1|1] [1|1] [1|1] [1|1] =  2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 = 20
 - [10|-] [10|-] [10|-] [10|-] [10|-] [10|-] [10|-] [10|-] [10|-] [10|10|10] = 30 + 30 + 30 + 30 + 30 = 30 + 30 + 30 + 30 + 30 = 300
 - [3|4] [5|5] [3|7] [4|5] [2|7] [8|2] [10|-] [0|10] [0|4] [8|1] = 7 + 13 + 14 + 9 + 9 + 20 + 20 + 10 + 4 + 9 = 115
+
+## Pytest
+
+You can do this Kata without any dependencies whatsoever, but in cas you'd like a more Pythonic way of testing, just run `pip install pytest`
